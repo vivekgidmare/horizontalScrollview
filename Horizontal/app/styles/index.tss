@@ -1,0 +1,26 @@
+".container": {
+	backgroundColor:"white"
+}
+"ScrollView[platform=ios]":{
+	top: 30,
+	height: 50,
+	layout: 'horizontal',
+	width:Titanium.UI.FILL,
+	backgroundColor: '#123456'
+}
+"ScrollView[platform=android]":{
+	top: 30,
+	height: 50,
+	scrollType:'horizontal',
+	contentWidth:'auto',
+	layout: 'horizontal',
+	width:Titanium.UI.FILL,
+	backgroundColor: '#123456'
+}
+"Button":{
+	width: 50,
+	height: 30,
+	backgroundColor: "red",
+	title:'|____|',
+	top: 90
+}

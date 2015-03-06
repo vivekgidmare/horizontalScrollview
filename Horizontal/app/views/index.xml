@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<ScrollView id="scrollView"/>
+		<Button id="btn"/>
+	</Window>
+</Alloy>
